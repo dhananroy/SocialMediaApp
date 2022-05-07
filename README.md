@@ -1,4 +1,4 @@
-# SocialMediaApp
+# SocialMediaApp - Facebook & Instagram Saver
 
 ## Usage
 
