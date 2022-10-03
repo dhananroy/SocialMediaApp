@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.iml" filepath="$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SocialMediaSaver/Android_Library.SocialMediaSaver.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Library.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Library.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Library.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Library.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Library.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Library.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Library.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/socialmediadownloader/Android_Library.socialmediadownloader.iml" filepath="$PROJECT_DIR$/.idea/modules/socialmediadownloader/Android_Library.socialmediadownloader.iml" />
     </modules>
   </component>

@@ -1,5 +1,7 @@
 package com.ucmate.socialmediasaver.FacebookVideo;
 
+import android.util.Log;
+
 import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -14,7 +16,7 @@ public class facebook {
         try {
             String html_resp;
             html_resp = new GetHtmlResponse.get_response().execute(url).get();
-            return String.valueOf(new JSONObject(get_url(html_resp)));
+            return String.valueOf(new JSONObject(get_url(html_resp.replace("\\", "").replace("  ",""))));
         } catch (ExecutionException | InterruptedException e) {
             e.printStackTrace();
         }
@@ -76,5 +78,6 @@ public class facebook {
         }
         return linkshash;
     }
+
 
 }
